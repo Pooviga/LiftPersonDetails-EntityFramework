@@ -69,6 +69,7 @@ namespace PersonDetails.WebAPi.Controllers
 
                 if (persondetailResult != null)
                 {
+
                     persondetailResult.Weight = updatePersonDetailRequest.Weight;
                     persondetailResult.FromFloor = updatePersonDetailRequest.FromFloor;
                     persondetailResult.ToFloor = updatePersonDetailRequest.ToFloor;
