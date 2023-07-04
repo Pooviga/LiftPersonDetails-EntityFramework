@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PersonDetails.WebAPi.props" />
+</Project>

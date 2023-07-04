@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QmxFOp2bBWgv1KRgrm8LD2jZdBJLCVVm7/lBfPfMw2A=",
+  "Source": "PersonDetails.WebAPi",
+  "BasePath": "_content/PersonDetails.WebAPi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
