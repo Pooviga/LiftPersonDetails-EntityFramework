@@ -85,3 +85,4 @@ C:\Projects\C#\PersonDetails\PersonDetails.WebAPi\obj\Debug\net6.0\refint\Person
 C:\Projects\C#\PersonDetails\PersonDetails.WebAPi\obj\Debug\net6.0\PersonDetails.WebAPi.pdb
 C:\Projects\C#\PersonDetails\PersonDetails.WebAPi\obj\Debug\net6.0\PersonDetails.WebAPi.genruntimeconfig.cache
 C:\Projects\C#\PersonDetails\PersonDetails.WebAPi\obj\Debug\net6.0\ref\PersonDetails.WebAPi.dll
+C:\Projects\C#\PersonDetails\PersonDetails.WebAPi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
